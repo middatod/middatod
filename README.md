@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a chess engine :)
+- 🌱 I’m currently learning C++ and C
+- 👯 I’m looking to collaborate on a chess engine with @Facel3ss
+- 🤔 I’m looking for help with C++ and Kernel Patching
+- 💬 Ask me about ...
 
 <!--
 **middatod/middatod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
