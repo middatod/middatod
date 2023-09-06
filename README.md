@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C++ and C
+- ඞ I like C++, Python and C
+- 🌱 I’m currently learning Webdev and good CSS
 - 🤔 I’m looking for help with Kernel Patching
 
 <!--
