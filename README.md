@@ -1,7 +1,7 @@
 ### Hi there 👋
-- ඞ I like C++, Python and C
-- 🌱 I’m currently learning Webdev and good CSS
-- 🤔 I’m looking for help with Kernel Patching
+- Using C++, C, and Python.
+- I’m currently learning kernel development in Windows.
+- I’m looking for help with driver mapping.
 
 <!--
 **middatod/middatod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
